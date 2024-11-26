@@ -1,0 +1,17 @@
+# Virtual environment
+virtenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+
+# Model or large binary files (optional, use only if not needed in version control)
+*.h5
+*.pkl
+*.model
